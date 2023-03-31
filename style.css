@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: lightsteelblue;
     overflow-x: hidden;
 }
 
@@ -11,7 +12,7 @@ body {
 
  .nav-link:hover {
     
-     color: aqua;
+     color: blue;
 }
 
 .hero {
@@ -40,5 +41,11 @@ a {
 .card {
     display: flex;
 }
+
+h1, h2 {
+    color: azure;
+}
+
+
 
 
