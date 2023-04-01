@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: lightsteelblue;
+    /* background-color: lightsteelblue; */
     overflow-x: hidden;
 }
 
@@ -34,14 +34,14 @@ a {
 }
 
 .card {
-    background-color: lightsteelblue;
+    
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
  h1, h2 {
-     color: white; 
+     color: black; 
 } 
 
 .img-thumbnail {
