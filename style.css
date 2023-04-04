@@ -4,6 +4,7 @@ body {
     box-sizing: border-box;
     /* background-color: lightsteelblue; */
     overflow-x: hidden;
+    
 }
 
 .nav-link {
@@ -47,6 +48,8 @@ a {
 .img-thumbnail {
     display: flex;
    }
+
+
 
 
 
