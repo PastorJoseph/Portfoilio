@@ -49,6 +49,10 @@ a {
     display: flex;
    }
 
+   span {
+    font-weight: bold;
+   }
+
 
 
 
